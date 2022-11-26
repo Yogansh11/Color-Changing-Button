@@ -1,4 +1,4 @@
-First JavaScript Project 
+My First JavaScript Project 
 
 Requirements:- When clicked the red button, then colour of all button changes to red.
   When clicked the green button  then  colour of all button changes to green.
